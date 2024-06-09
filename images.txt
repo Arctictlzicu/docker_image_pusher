@@ -1,2 +1,3 @@
 kukume/tgbot
 prom/prometheus
+mongo:4
