@@ -1,3 +1,4 @@
 kukume/tgbot
+kukume/tgbot:TelegramBots
 prom/prometheus
 mongo:4
