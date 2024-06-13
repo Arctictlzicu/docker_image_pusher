@@ -2,3 +2,4 @@ kukume/tgbot
 kukume/tgbot:TelegramBots
 prom/prometheus
 mongo:4
+mysql:8.0
